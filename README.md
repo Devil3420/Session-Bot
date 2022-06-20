@@ -24,7 +24,7 @@ Thia Bot Will Allow You To Generate Pyrogram And Telethon String For Telegram De
 ## Heroku Deployment ❤️
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jankarikiduniya/Session_Robot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Devil3420/Session-Bot)
 
 ### Mayank– History
 
@@ -39,7 +39,7 @@ The easy way to host this bot, deploy to Heroku, Change the app country to Europ
 
 1. Clone the repo
    ```markdown
-   git clone https://github.com/jankarikiduniya/Session_Robot
+   git clone https://github.com/Devil3420/Session-Bot
    ```
 2. Get a DATABASE_URL. If you don't know how, deploy using Heroku Button only or delete database things as it's not a compulsion.
    
